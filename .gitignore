@@ -1,0 +1,14 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Configuraciones locales (que no deben ir al repo)
+.env
+venv/
+.venv/
